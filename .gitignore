@@ -1,4 +1,8 @@
 target
-data
 out
 .idea
+img
+nc
+
+
+*.iml

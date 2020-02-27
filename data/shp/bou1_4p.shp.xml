@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh">
+    <Esri>
+        <CreaDate>20130706</CreaDate>
+        <CreaTime>14411100</CreaTime>
+        <ArcGISFormat>1.0</ArcGISFormat>
+        <SyncOnce>TRUE</SyncOnce>
+        <DataProperties>
+            <lineage>
+                <Process
+                        ToolSource="D:\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\DefineProjection"
+                        Date="20130706" Time="144111">DefineProjection bou1_4p
+                    GEOGCS['GCS_WGS_1984',DATUM['D_WGS_1984',SPHEROID['WGS_1984',6378137.0,298.257223563]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]]
+                </Process>
+            </lineage>
+        </DataProperties>
+    </Esri>
+</metadata>
